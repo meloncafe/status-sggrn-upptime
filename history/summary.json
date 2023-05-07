@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.siege-green.com.ico",
     "slug": "siege-green-auth",
     "status": "down",
-    "uptime": "7.38%",
-    "uptimeDay": "7.38%",
-    "uptimeWeek": "7.38%",
-    "uptimeMonth": "7.38%",
-    "uptimeYear": "7.38%",
-    "time": 629,
-    "timeDay": 629,
-    "timeWeek": 629,
-    "timeMonth": 629,
-    "timeYear": 629,
+    "uptime": "0.92%",
+    "uptimeDay": "0.92%",
+    "uptimeWeek": "0.92%",
+    "uptimeMonth": "0.92%",
+    "uptimeYear": "0.92%",
+    "time": 599,
+    "timeDay": 599,
+    "timeWeek": 599,
+    "timeMonth": 599,
+    "timeYear": 599,
     "dailyMinutesDown": {
-      "2023-05-07": 0
+      "2023-05-07": 2
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/seat.siege-green.com.ico",
     "slug": "siege-green-se-at",
     "status": "down",
-    "uptime": "12.10%",
-    "uptimeDay": "12.10%",
-    "uptimeWeek": "12.10%",
-    "uptimeMonth": "12.10%",
-    "uptimeYear": "12.10%",
-    "time": 563,
-    "timeDay": 563,
-    "timeWeek": 563,
-    "timeMonth": 563,
-    "timeYear": 563,
+    "uptime": "0.94%",
+    "uptimeDay": "0.94%",
+    "uptimeWeek": "0.94%",
+    "uptimeMonth": "0.94%",
+    "uptimeYear": "0.94%",
+    "time": 560,
+    "timeDay": 560,
+    "timeWeek": 560,
+    "timeMonth": 560,
+    "timeYear": 560,
     "dailyMinutesDown": {
-      "2023-05-07": 0
+      "2023-05-07": 2
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/book.siege-green.com.ico",
     "slug": "siege-green-books",
     "status": "down",
-    "uptime": "10.89%",
-    "uptimeDay": "10.89%",
-    "uptimeWeek": "10.89%",
-    "uptimeMonth": "10.89%",
-    "uptimeYear": "10.89%",
+    "uptime": "0.98%",
+    "uptimeDay": "0.98%",
+    "uptimeWeek": "0.98%",
+    "uptimeMonth": "0.98%",
+    "uptimeYear": "0.98%",
     "time": 616,
     "timeDay": 616,
     "timeWeek": 616,
     "timeMonth": 616,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2023-05-07": 0
+      "2023-05-07": 2
     }
   }
 ]
