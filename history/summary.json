@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.siege-green.com.ico",
     "slug": "siege-green-auth",
     "status": "up",
-    "uptime": "42.38%",
-    "uptimeDay": "42.38%",
-    "uptimeWeek": "42.38%",
-    "uptimeMonth": "42.38%",
-    "uptimeYear": "42.38%",
-    "time": 809,
-    "timeDay": 809,
-    "timeWeek": 809,
-    "timeMonth": 809,
-    "timeYear": 809,
-    "dailyMinutesDown": {
-      "2023-05-07": 95
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 805,
+    "timeDay": 805,
+    "timeWeek": 805,
+    "timeMonth": 805,
+    "timeYear": 805,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Siege Green SeAT",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/seat.siege-green.com.ico",
     "slug": "siege-green-se-at",
     "status": "up",
-    "uptime": "46.51%",
-    "uptimeDay": "46.51%",
-    "uptimeWeek": "46.51%",
-    "uptimeMonth": "46.51%",
-    "uptimeYear": "46.51%",
-    "time": 672,
-    "timeDay": 672,
-    "timeWeek": 672,
-    "timeMonth": 672,
-    "timeYear": 672,
-    "dailyMinutesDown": {
-      "2023-05-07": 88
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 691,
+    "timeDay": 691,
+    "timeWeek": 691,
+    "timeMonth": 691,
+    "timeYear": 691,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Siege Green Books",
@@ -45,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/book.siege-green.com.ico",
     "slug": "siege-green-books",
     "status": "up",
-    "uptime": "46.49%",
-    "uptimeDay": "46.49%",
-    "uptimeWeek": "46.49%",
-    "uptimeMonth": "46.49%",
-    "uptimeYear": "46.49%",
-    "time": 757,
-    "timeDay": 757,
-    "timeWeek": 757,
-    "timeMonth": 757,
-    "timeYear": 757,
-    "dailyMinutesDown": {
-      "2023-05-07": 88
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 806,
+    "timeDay": 806,
+    "timeWeek": 806,
+    "timeMonth": 806,
+    "timeYear": 806,
+    "dailyMinutesDown": {}
   }
 ]
