@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.siege-green.com.ico",
     "slug": "siege-green-auth",
     "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.94%",
+    "uptime": "99.93%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.93%",
     "time": 912,
     "timeDay": 1292,
     "timeWeek": 1034,
     "timeMonth": 927,
     "timeYear": 912,
     "dailyMinutesDown": {
-      "2023-06-21": 0,
+      "2023-06-21": 12,
       "2023-06-07": 21,
       "2023-05-25": 17
     }
@@ -26,9 +26,9 @@
     "url": "https://seat.siege-green.com",
     "icon": "https://icons.duckduckgo.com/ip3/seat.siege-green.com.ico",
     "slug": "siege-green-se-at",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.94%",
@@ -38,6 +38,7 @@
     "timeMonth": 922,
     "timeYear": 946,
     "dailyMinutesDown": {
+      "2023-06-21": 0,
       "2023-05-25": 15,
       "2023-05-20": 25
     }
