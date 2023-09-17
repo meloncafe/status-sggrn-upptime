@@ -1,7 +1,7 @@
 url: https://book.siege-green.com
-status: up
-code: 200
-responseTime: 1215
-lastUpdated: 2023-09-16T23:01:53.336Z
+status: down
+code: 502
+responseTime: 812
+lastUpdated: 2023-09-17T00:12:12.771Z
 startTime: 2023-05-07T05:49:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
