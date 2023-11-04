@@ -1,7 +1,7 @@
 url: https://seat.siege-green.com
-status: up
-code: 200
-responseTime: 1427
-lastUpdated: 2023-11-04T13:56:42.222Z
+status: down
+code: 500
+responseTime: 28308
+lastUpdated: 2023-11-04T15:55:19.562Z
 startTime: 2023-05-07T05:49:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
