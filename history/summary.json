@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.siege-green.com.ico",
     "slug": "siege-green-auth",
     "status": "up",
-    "uptime": "90.79%",
+    "uptime": "90.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.59%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "96.45%",
     "uptimeYear": "88.99%",
-    "time": 2999,
-    "timeDay": 793,
-    "timeWeek": 835,
-    "timeMonth": 2276,
+    "time": 2996,
+    "timeDay": 982,
+    "timeWeek": 902,
+    "timeMonth": 2288,
     "timeYear": 3227,
     "dailyMinutesDown": {
       "2024-07-12": 24,
@@ -91,8 +91,7 @@
       "2023-09-18": 64,
       "2023-07-31": 27,
       "2023-07-30": 10,
-      "2023-07-25": 19,
-      "2023-07-20": 20
+      "2023-07-25": 19
     }
   },
   {
@@ -101,15 +100,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/seat.siege-green.com.ico",
     "slug": "siege-green-se-at",
     "status": "up",
-    "uptime": "89.67%",
+    "uptime": "89.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.04%",
     "uptimeYear": "87.63%",
-    "time": 2143,
-    "timeDay": 624,
-    "timeWeek": 795,
-    "timeMonth": 2612,
+    "time": 2142,
+    "timeDay": 891,
+    "timeWeek": 834,
+    "timeMonth": 2607,
     "timeYear": 2271,
     "dailyMinutesDown": {
       "2024-07-07": 30,
@@ -196,8 +195,7 @@
       "2023-08-03": 25,
       "2023-07-31": 27,
       "2023-07-30": 33,
-      "2023-07-25": 17,
-      "2023-07-20": 43
+      "2023-07-25": 17
     }
   },
   {
@@ -206,15 +204,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/book.siege-green.com.ico",
     "slug": "siege-green-books",
     "status": "up",
-    "uptime": "91.67%",
+    "uptime": "91.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.91%",
     "uptimeYear": "90.04%",
-    "time": 2179,
-    "timeDay": 1050,
-    "timeWeek": 1154,
-    "timeMonth": 3062,
+    "time": 2177,
+    "timeDay": 1231,
+    "timeWeek": 1195,
+    "timeMonth": 3060,
     "timeYear": 2301,
     "dailyMinutesDown": {
       "2024-07-06": 16,
@@ -265,8 +263,7 @@
       "2023-09-26": 17,
       "2023-09-18": 22,
       "2023-07-31": 8,
-      "2023-07-30": 24,
-      "2023-07-20": 22
+      "2023-07-30": 24
     }
   },
   {
@@ -275,16 +272,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wh.siege-green.com.ico",
     "slug": "siege-green-pathfinder",
     "status": "up",
-    "uptime": "88.50%",
+    "uptime": "88.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.87%",
     "uptimeYear": "87.81%",
-    "time": 2330,
-    "timeDay": 771,
-    "timeWeek": 959,
-    "timeMonth": 976,
-    "timeYear": 2337,
+    "time": 2328,
+    "timeDay": 1085,
+    "timeWeek": 1002,
+    "timeMonth": 997,
+    "timeYear": 2338,
     "dailyMinutesDown": {
       "2024-07-06": 38,
       "2024-07-01": 155,
@@ -344,8 +341,7 @@
       "2023-09-27": 92,
       "2023-09-26": 16,
       "2023-09-18": 20,
-      "2023-07-30": 16,
-      "2023-07-20": 21
+      "2023-07-30": 16
     }
   }
 ]
