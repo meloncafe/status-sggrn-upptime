@@ -27,7 +27,6 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-skipUpdateTemplate: true # Prevent auto-overwrite of workflow files (v6 credential bug workaround)
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
