@@ -343,10 +343,10 @@
     "slug": "siege-green-books",
     "status": "down",
     "uptime": "89.35%",
-    "uptimeDay": "81.10%",
-    "uptimeWeek": "92.08%",
-    "uptimeMonth": "93.06%",
-    "uptimeYear": "68.45%",
+    "uptimeDay": "78.27%",
+    "uptimeWeek": "91.67%",
+    "uptimeMonth": "92.97%",
+    "uptimeYear": "68.44%",
     "time": 1225,
     "timeDay": 1005,
     "timeWeek": 2101,
@@ -496,7 +496,8 @@
       "2026-05-20": 87,
       "2026-05-29": 100,
       "2026-05-30": 426,
-      "2026-05-31": 272
+      "2026-05-31": 274,
+      "2026-06-01": 39
     }
   },
   {
