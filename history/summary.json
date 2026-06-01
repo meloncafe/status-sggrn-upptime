@@ -4,17 +4,17 @@
     "url": "https://auth.siege-green.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.siege-green.com.ico",
     "slug": "siege-green-auth",
-    "status": "up",
-    "uptime": "89.77%",
-    "uptimeDay": "84.98%",
-    "uptimeWeek": "92.15%",
+    "status": "down",
+    "uptime": "89.80%",
+    "uptimeDay": "84.92%",
+    "uptimeWeek": "92.14%",
     "uptimeMonth": "93.63%",
     "uptimeYear": "68.88%",
-    "time": 1088,
-    "timeDay": 978,
-    "timeWeek": 1333,
-    "timeMonth": 1102,
-    "timeYear": 1103,
+    "time": 1092,
+    "timeDay": 1160,
+    "timeWeek": 1390,
+    "timeMonth": 1123,
+    "timeYear": 1107,
     "dailyMinutesDown": {
       "2025-06-08": 68,
       "2025-06-07": 592,
@@ -164,7 +164,8 @@
       "2026-05-20": 88,
       "2026-05-29": 104,
       "2026-05-30": 471,
-      "2026-05-31": 216
+      "2026-05-31": 216,
+      "2026-06-01": 1
     }
   },
   {
@@ -172,17 +173,17 @@
     "url": "https://seat.siege-green.com",
     "icon": "https://icons.duckduckgo.com/ip3/seat.siege-green.com.ico",
     "slug": "siege-green-se-at",
-    "status": "up",
-    "uptime": "89.61%",
-    "uptimeDay": "81.42%",
-    "uptimeWeek": "93.83%",
+    "status": "down",
+    "uptime": "89.63%",
+    "uptimeDay": "81.38%",
+    "uptimeWeek": "93.82%",
     "uptimeMonth": "93.88%",
     "uptimeYear": "68.39%",
-    "time": 1209,
-    "timeDay": 869,
-    "timeWeek": 1727,
-    "timeMonth": 1405,
-    "timeYear": 1240,
+    "time": 1212,
+    "timeDay": 1035,
+    "timeWeek": 1783,
+    "timeMonth": 1424,
+    "timeYear": 1244,
     "dailyMinutesDown": {
       "2025-06-08": 68,
       "2025-06-07": 592,
@@ -333,7 +334,8 @@
       "2026-05-20": 88,
       "2026-05-29": 103,
       "2026-05-30": 252,
-      "2026-05-31": 268
+      "2026-05-31": 268,
+      "2026-06-01": 1
     }
   },
   {
@@ -343,10 +345,10 @@
     "slug": "siege-green-books",
     "status": "down",
     "uptime": "89.35%",
-    "uptimeDay": "78.27%",
-    "uptimeWeek": "91.67%",
-    "uptimeMonth": "92.97%",
-    "uptimeYear": "68.44%",
+    "uptimeDay": "75.24%",
+    "uptimeWeek": "91.24%",
+    "uptimeMonth": "92.87%",
+    "uptimeYear": "68.43%",
     "time": 1225,
     "timeDay": 1005,
     "timeWeek": 2101,
@@ -497,7 +499,7 @@
       "2026-05-29": 100,
       "2026-05-30": 426,
       "2026-05-31": 274,
-      "2026-06-01": 39
+      "2026-06-01": 83
     }
   },
   {
