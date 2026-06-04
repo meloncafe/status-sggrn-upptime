@@ -4,16 +4,16 @@
     "url": "https://auth.siege-green.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.siege-green.com.ico",
     "slug": "siege-green-auth",
-    "status": "down",
+    "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "86.11%",
-    "uptimeWeek": "83.44%",
-    "uptimeMonth": "91.62%",
+    "uptimeDay": "83.60%",
+    "uptimeWeek": "83.09%",
+    "uptimeMonth": "91.54%",
     "uptimeYear": "98.55%",
-    "time": 1069,
-    "timeDay": 871,
-    "timeWeek": 1209,
-    "timeMonth": 1098,
+    "time": 1070,
+    "timeDay": 932,
+    "timeWeek": 1212,
+    "timeMonth": 1100,
     "timeYear": 1100,
     "dailyMinutesDown": {
       "2025-11-03": 27,
@@ -54,7 +54,8 @@
       "2026-05-31": 216,
       "2026-06-01": 277,
       "2026-06-02": 401,
-      "2026-06-03": 200
+      "2026-06-03": 220,
+      "2026-06-04": 16
     }
   },
   {
@@ -62,15 +63,15 @@
     "url": "https://seat.siege-green.com",
     "icon": "https://icons.duckduckgo.com/ip3/seat.siege-green.com.ico",
     "slug": "siege-green-se-at",
-    "status": "down",
+    "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "86.16%",
-    "uptimeWeek": "85.15%",
-    "uptimeMonth": "91.89%",
+    "uptimeDay": "83.66%",
+    "uptimeWeek": "84.79%",
+    "uptimeMonth": "91.80%",
     "uptimeYear": "97.53%",
     "time": 1179,
-    "timeDay": 990,
-    "timeWeek": 1479,
+    "timeDay": 1029,
+    "timeWeek": 1477,
     "timeMonth": 1359,
     "timeYear": 1237,
     "dailyMinutesDown": {
@@ -116,7 +117,8 @@
       "2026-05-31": 268,
       "2026-06-01": 276,
       "2026-06-02": 400,
-      "2026-06-03": 200
+      "2026-06-03": 220,
+      "2026-06-04": 16
     }
   },
   {
@@ -124,17 +126,17 @@
     "url": "https://book.siege-green.com",
     "icon": "https://icons.duckduckgo.com/ip3/book.siege-green.com.ico",
     "slug": "siege-green-books",
-    "status": "down",
+    "status": "up",
     "uptime": "89.67%",
-    "uptimeDay": "86.21%",
-    "uptimeWeek": "82.59%",
-    "uptimeMonth": "90.88%",
-    "uptimeYear": "68.27%",
-    "time": 1219,
-    "timeDay": 940,
-    "timeWeek": 1703,
-    "timeMonth": 1487,
-    "timeYear": 1228,
+    "uptimeDay": "83.71%",
+    "uptimeWeek": "82.23%",
+    "uptimeMonth": "90.80%",
+    "uptimeYear": "68.26%",
+    "time": 1220,
+    "timeDay": 1005,
+    "timeWeek": 1701,
+    "timeMonth": 1488,
+    "timeYear": 1229,
     "dailyMinutesDown": {
       "2025-06-08": 68,
       "2025-06-07": 591,
@@ -282,7 +284,8 @@
       "2026-05-31": 274,
       "2026-06-01": 358,
       "2026-06-02": 398,
-      "2026-06-03": 199
+      "2026-06-03": 220,
+      "2026-06-04": 16
     }
   },
   {
@@ -290,16 +293,16 @@
     "url": "https://wh.siege-green.com",
     "icon": "https://icons.duckduckgo.com/ip3/wh.siege-green.com.ico",
     "slug": "siege-green-pathfinder",
-    "status": "down",
-    "uptime": "89.27%",
-    "uptimeDay": "86.27%",
-    "uptimeWeek": "86.35%",
-    "uptimeMonth": "93.25%",
-    "uptimeYear": "69.13%",
-    "time": 720,
-    "timeDay": 660,
+    "status": "up",
+    "uptime": "89.26%",
+    "uptimeDay": "83.77%",
+    "uptimeWeek": "85.99%",
+    "uptimeMonth": "93.17%",
+    "uptimeYear": "69.12%",
+    "time": 719,
+    "timeDay": 657,
     "timeWeek": 659,
-    "timeMonth": 680,
+    "timeMonth": 679,
     "timeYear": 584,
     "dailyMinutesDown": {
       "2025-06-08": 69,
@@ -439,7 +442,8 @@
       "2026-05-31": 295,
       "2026-06-01": 226,
       "2026-06-02": 398,
-      "2026-06-03": 197
+      "2026-06-03": 217,
+      "2026-06-04": 16
     }
   }
 ]
