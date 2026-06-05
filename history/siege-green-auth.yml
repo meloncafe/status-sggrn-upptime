@@ -1,7 +1,7 @@
 url: https://auth.siege-green.com
-status: down
-code: 502
-responseTime: 616
-lastUpdated: 2026-06-05T15:48:30.136Z
+status: up
+code: 200
+responseTime: 1448
+lastUpdated: 2026-06-05T16:41:29.783Z
 startTime: 2023-05-07T05:49:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
