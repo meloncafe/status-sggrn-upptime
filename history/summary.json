@@ -106,15 +106,15 @@
     "url": "https://book.siege-green.com",
     "icon": "https://icons.duckduckgo.com/ip3/book.siege-green.com.ico",
     "slug": "siege-green-books",
-    "status": "down",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "73.95%",
-    "uptimeWeek": "74.26%",
-    "uptimeMonth": "87.23%",
+    "uptimeDay": "71.90%",
+    "uptimeWeek": "73.96%",
+    "uptimeMonth": "87.17%",
     "uptimeYear": "98.65%",
     "time": 1207,
-    "timeDay": 992,
-    "timeWeek": 1047,
+    "timeDay": 1021,
+    "timeWeek": 1051,
     "timeMonth": 1377,
     "timeYear": 1213,
     "dailyMinutesDown": {
@@ -144,7 +144,7 @@
       "2026-06-04": 299,
       "2026-06-05": 531,
       "2026-06-06": 497,
-      "2026-06-07": 250
+      "2026-06-07": 280
     }
   },
   {
