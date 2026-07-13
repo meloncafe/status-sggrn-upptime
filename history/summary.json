@@ -56,9 +56,9 @@
     "slug": "siege-green-se-at",
     "status": "down",
     "uptime": "99.46%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "98.28%",
     "time": 1247,
     "timeDay": 1196,
@@ -99,7 +99,7 @@
       "2026-06-10": 313,
       "2026-07-01": 46,
       "2026-07-09": 36,
-      "2026-07-13": 1
+      "2026-07-13": 18
     }
   },
   {
