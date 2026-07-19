@@ -4,17 +4,17 @@
     "url": "https://auth.siege-green.com",
     "icon": "https://icons.duckduckgo.com/ip3/auth.siege-green.com.ico",
     "slug": "siege-green-auth",
-    "status": "down",
+    "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "97.50%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "98.59%",
-    "time": 1096,
-    "timeDay": 1321,
-    "timeWeek": 1351,
-    "timeMonth": 1343,
-    "timeYear": 1122,
+    "uptimeDay": "93.87%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "98.58%",
+    "time": 1099,
+    "timeDay": 2202,
+    "timeWeek": 1543,
+    "timeMonth": 1394,
+    "timeYear": 1125,
     "dailyMinutesDown": {
       "2026-02-26": 69,
       "2026-03-06": 287,
@@ -46,7 +46,7 @@
       "2026-07-01": 47,
       "2026-07-09": 37,
       "2026-07-15": 42,
-      "2026-07-19": 36
+      "2026-07-19": 88
     }
   },
   {
